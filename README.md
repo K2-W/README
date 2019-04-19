@@ -9,16 +9,13 @@
 - and another one.
 - ^
 + ^^
-___
-1 test
-2 test
-3 test
+
 ___
 
 > border test which is underline, asterisk
 
 ***
 ___
-> actually, Markdown is useful, i think.
-> What Doesn't Kill You Makes You Stronger. - Friedrich Nietzsche, the German Philosopher
-> ;)
+> actually, Markdown is useful, i think.\n
+> What Doesn't Kill You Makes You Stronger. - Friedrich Nietzsche, the German Philosopher\n
+> ;)\n
