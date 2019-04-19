@@ -17,7 +17,7 @@
 
 
 * This is Markdown type 1 which using * a.k.a. asterisk
-* This is same as above one.7
+* This is same as above one.
 - and another one using -
 - ^
 + using +
