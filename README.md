@@ -12,11 +12,11 @@
 
 ___
 
-> border test which is underline, asterisk  
+> border test which is underline, asterisk    
 
 ***
 ___
 <div>
-> actually, Markdown is useful, i think.  
-> What Doesn't Kill You Makes You Stronger. - Friedrich Nietzsche, the German Philosopher  
-> ;)  
+> actually, Markdown is useful, i think.    
+> What Doesn't Kill You Makes You Stronger. - Friedrich Nietzsche, the German Philosopher     
+> ;)      
