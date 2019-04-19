@@ -16,7 +16,7 @@ ___
 
 ***
 ___
-<div>
+
 > actually, Markdown is useful, i think.    
-> What Doesn't Kill You Makes You Stronger. - Friedrich Nietzsche, the German Philosopher     
-> ;)      
+What Doesn't Kill You Makes You Stronger. - Friedrich Nietzsche, the German Philosopher     
+;)      
