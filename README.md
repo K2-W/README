@@ -21,7 +21,7 @@
 - and another one using -
 - ^
 + using +
-+ ただのテストです。
+
 ___
 > border test which is underline, asterisk    
 ___
@@ -30,4 +30,4 @@ ___
 ;)      
 ___
 ### this page is written by K2-W
-### and Recent modify date is April 22th, 2019
+### and Recent modify date is April 26th, 2019
